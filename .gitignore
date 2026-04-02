@@ -1,0 +1,18 @@
+.env
+.env.*
+
+__pycache__/
+
+.vscode/
+
+# Cookies (never commit)
+cookies.json
+
+# Benchmark evaluation outputs
+gpt_test/
+grok_test/
+gemma_test/
+rine_test/
+
+# Local/private notes
+src/renew_data/_TWIKIT_FIX_CHANGELOG_LOCAL_NOTES.md

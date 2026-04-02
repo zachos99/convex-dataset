@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+Pillow
+python-dotenv
+openai
+google-genai
+httpx
+httpcore
+twikit
+
