@@ -16,3 +16,7 @@ rine_test/
 
 # Local/private notes
 src/renew_data/_TWIKIT_FIX_CHANGELOG_LOCAL_NOTES.md
+
+# Dataset
+data/dataset_image.csv
+data/dataset_video.csv
