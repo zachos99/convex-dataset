@@ -90,7 +90,7 @@ def plot_volume_weekly(
         df = df[df[misinfo_type_column].isin(include_types_filtered)].copy()
 
         # Always enable these in the combined plot flow.
-        show_total = True
+        show_total = False
         models_release_line = True
         deduplicate = True
 
