@@ -1,8 +1,8 @@
 # CONVEX Dataset & Code
 
-This repository accompanies **“The Synthetic Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal Misinformation”** and provides code + processed artifacts for analysis and benchmarking.
+This repository accompanies **“The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal Misinformation”** and provides code + processed artifacts for analysis and benchmarking.
 
-[Paper (TBD)](#) | [Supplementary](supplementary_material/) | [Citation (TBD)](#citation)
+[Paper](https://arxiv.org/abs/2604.15372) | [Supplementary](supplementary_material/) | [Citation (TBD)](#citation)
 
 ## Pipeline (high level)
 

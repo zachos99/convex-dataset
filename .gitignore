@@ -22,3 +22,4 @@ data/dataset_image.csv
 data/dataset_video.csv
 data/image_helpful_subset_merged.csv
 data/video_helpful_subset_merged.csv
+data/helpful_set_images
