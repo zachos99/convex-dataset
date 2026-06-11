@@ -31,4 +31,11 @@ To reduce risk and comply with platform and privacy constraints, this repository
 
 ## Citation
 
-TBD
+@InProceedings{Chrysidis_2026_CVPR,
+    author    = {Chrysidis, Zacharias and Papadopoulos, Stefanos-Iordanis and Papadopoulos, Symeon},
+    title     = {The Synthetic Media Shift: Tracking the Rise, Virality, and Detectability of AI-Generated Multimodal Misinformation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {8626-8635}
+}
